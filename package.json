@@ -1,0 +1,28 @@
+{
+  "name": "iss_spotter",
+  "version": "1.0.0",
+  "description": "Lighthouse Labs exercise with promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbaker1917/iss_spotter.git"
+  },
+  "keywords": [
+    "ISS",
+    "promises",
+    "APIs",
+    "callbacks"
+  ],
+  "author": "Mark R. Baker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrbaker1917/iss_spotter/issues"
+  },
+  "homepage": "https://github.com/mrbaker1917/iss_spotter#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
