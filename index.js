@@ -7,6 +7,7 @@ const printPassTimes = function(flyovers) {
     const duration = time.duration;
     console.log(`Next pass at ${datetime} for ${duration} seconds!`);
   }
+  console.log("I ran");
 };
 
 nextISSTimesForMyLocation((error, flyoverTimes) => {
